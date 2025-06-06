@@ -14,3 +14,5 @@ Built with Python + python-telegram-bot
 ### Why SnipURL?
 Perfect for learning API integration, async Python, and bot development
 Minimal setup, max utility 🚀
+
+@SnipURL_bot
